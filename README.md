@@ -1,23 +1,20 @@
-## Shane Verkest Portfolio
+# Shane Verkest Portfolio
 
 The following are some of my projects from throughout the year:
 
-# Adventure Game
+## Adventure Game
 
 I constructed a non-linear choose your own adventure game with multiple endings! Features included custom classes and objects that affect gameplay, plus amateur ASCII art!
 
 
-# Study Application
-This was a study application 
+## Study Application
 
-# Trivia Game
-This was a trivial game
-
-[Link](url) and ![Image](src)
-```
+I created a study application tool that displayed both terms and matching definitions. 
 
 
-### Jekyll Themes
+## Trivia Game
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShaneMV/ShaneMV.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I created a game version of my study application that displayed the terms and definitions as a question, requring player input. The game told the player whether they were right or wrong and even gave them a total score at the end. 
+
+
 
