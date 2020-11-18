@@ -1,3 +1,4 @@
+![Image of shane](https://shanemv.github.io/ShaneMV/shane.png)
 # Shane Verkest Portfolio
 
 The following are some of my projects from throughout the year:
