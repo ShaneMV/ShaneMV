@@ -17,6 +17,9 @@ I created a study application tool that displayed both terms and matching defini
 ## Trivia Game
 ![Image of trivia](https://shanemv.github.io/ShaneMV/trivia.png)
 I created a game version of my study application that displayed the terms and definitions as a question, requring player input. The game told the player whether they were right or wrong and even gave them a total score at the end. 
+## Trivia Game GUI
+![Image of triviagui] (https://github.com/ShaneMV/ShaneMV/blob/images/Shane%20Verkest%20TriviaGame.png)
+I created a working GUI adaptation of my trivia game. 
 
 
 
