@@ -21,5 +21,8 @@ I created a game version of my study application that displayed the terms and de
 ![Image of triviagui.png](https://shanemv.github.io/ShaneMV/triviagui.png)
 I created a working GUI adaptation of my trivia game. 
 
+## Madlib GUI
+![Image of madlib](https://shanemv.github.io/ShaneMV/madlib.png)
+I created a working GUI adapation of my madlib game.
 
 
